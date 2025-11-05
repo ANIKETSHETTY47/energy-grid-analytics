@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/yourusername/energy-grid-analytics-go/anomaly"
-	"github.com/yourusername/energy-grid-analytics-go/aggregator"
-	"github.com/yourusername/energy-grid-analytics-go/converter"
-	"github.com/yourusername/energy-grid-analytics-go/maintenance"
+	"github.com/ANIKETSHETTY47/energy-grid-analytics-go/aggregator"
+	"github.com/ANIKETSHETTY47/energy-grid-analytics-go/anomaly"
+	"github.com/ANIKETSHETTY47/energy-grid-analytics-go/converter"
+	"github.com/ANIKETSHETTY47/energy-grid-analytics-go/maintenance"
 )
 
 func main() {
