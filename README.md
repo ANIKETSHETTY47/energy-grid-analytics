@@ -1,11 +1,11 @@
-# energy-grid-analytics-go
+# energy-grid-analytics
 
 A small Go module for energy analytics: unit conversion, anomaly detection, data aggregation, and maintenance prediction.
 
 ## Install
 
 ```bash
-go get github.com/yourusername/energy-grid-analytics-go@v1.0.0
+go get github.com/ANIKETSHETTY47/energy-grid-analytics@v1.0.0
 ```
 
 ## Packages
